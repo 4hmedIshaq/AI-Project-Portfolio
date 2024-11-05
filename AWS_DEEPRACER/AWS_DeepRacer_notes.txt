@@ -1,0 +1,5 @@
+- In this file there will be a manual on how to navigate in AWS to start and use DeepRacer.
+
+- There is final code provided that has fully worked. Time take for training is 90 minutes.
+
+- One file that contains old code that needed to get better and worked out. 
